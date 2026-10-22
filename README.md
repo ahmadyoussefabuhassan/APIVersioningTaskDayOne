@@ -109,7 +109,3 @@ The browser will open **Swagger UI** at:
 ## 👨‍💻 Author
 **Ahmad Youssef Abu Hassan**
 ```
-
----
-
-الآن ضع علامة صح (Check) على خيار **Add a README.md** في النافذة إذا أحببت، أو اضغط مباشرة على **Create and Push** وبعدها يمكنك إضافة الملف والتعديل عليه ورفعه (Commit & Push) في أي وقت!
